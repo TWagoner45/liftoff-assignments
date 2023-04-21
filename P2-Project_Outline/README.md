@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This project(application) will provide users access to a Dad Joke Generator. Users with have the choice to generate a random dad joke, or choose to contribute to a list of dad jokes. Also, users who create profiles will be able to bookmark jokes, and track the jokes that they have created & submitted themselves.
 ### Features
-Include Features here
+User login: Once a user signs up, then they can log in to their account and will have their username linked to a page of their own jokes. 
+Bookmarks: Jokes that a user with an account has bookmarked. 
+Generator: "Generate" button that generates a random dad joke for the user each time it is clicked. 
+Create: "Create" button, allows each user to create and submit dad jokes.
 ### Technologies
-Include Technologies here
+Java 
+Javascript
+HTML 
+CSS 
+MYSQL 
+Hibernate 
+Thymeleaf
 ### What I'll Have to Learn
-Include what you will need to learn here
+API Calls
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/w/userworkspace90545984
